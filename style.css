@@ -360,6 +360,12 @@ a#selected{
     width: 615px;
 }
 
+@media screen and (max-width: 800px){
+    .item2-content p{
+        width: 80%;
+    }
+}
+
 .item2-content .buynow{
     margin-top: 27px;
     width: 200px;
